@@ -1,0 +1,19 @@
+package pertemuan4;
+
+public class tugas {
+   
+    public static void main(String[] args) {
+
+        int nama_barang;
+        int harga;
+        int pajak;
+        float total_harga;
+    { 
+        system.out.println total_harga =(harga * 0.1f);
+        float total_harga = (harga* pajak);
+        total_harga=(harga*0.1f);
+       
+system.out.println("Nama Barang     = .");
+system.out.println("Harga Barang    = .");
+system.out.println("Pajak           = 10%");
+system.out.println("Total Bayar     = .");
